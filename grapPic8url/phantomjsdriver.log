@@ -1,0 +1,10 @@
+[INFO  - 2015-12-20T00:32:28.707Z] GhostDriver - Main - running on port 34920
+[INFO  - 2015-12-20T00:32:29.939Z] Session [270e9f00-a6b1-11e5-959e-1d84dc9db5b4] - CONSTRUCTOR - Desired Capabilities: {"platform":"ANY","browserName":"phantomjs","version":""}
+[INFO  - 2015-12-20T00:32:29.939Z] Session [270e9f00-a6b1-11e5-959e-1d84dc9db5b4] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.0","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"windows-8-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-20T00:32:29.940Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 270e9f00-a6b1-11e5-959e-1d84dc9db5b4
+[INFO  - 2015-12-20T00:33:01.507Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2015-12-20T00:34:23.361Z] GhostDriver - Main - running on port 25406
+[INFO  - 2015-12-20T00:34:23.930Z] Session [6b001d60-a6b1-11e5-a743-39dd65a8c428] - CONSTRUCTOR - Desired Capabilities: {"platform":"ANY","browserName":"phantomjs","version":""}
+[INFO  - 2015-12-20T00:34:23.930Z] Session [6b001d60-a6b1-11e5-a743-39dd65a8c428] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.0","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"windows-8-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-20T00:34:23.930Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6b001d60-a6b1-11e5-a743-39dd65a8c428
+[INFO  - 2015-12-20T00:34:35.279Z] ShutdownReqHand - _handle - About to shutdown
